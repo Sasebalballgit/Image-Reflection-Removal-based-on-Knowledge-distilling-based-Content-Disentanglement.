@@ -7,6 +7,7 @@
 
 ## Testing <br>
 *  Change the root path、save image path in main.py. <br>
+*  Download our pretrained model from https://reurl.cc/Q7OKKp amd move to /Weighted.
 *  Evaluate the model performance by "python main.py". <br>
 
 
