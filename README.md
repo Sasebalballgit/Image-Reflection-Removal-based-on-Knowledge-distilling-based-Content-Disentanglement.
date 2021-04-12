@@ -1,4 +1,8 @@
 # Reflection_Removal
+
+## Highlights <br>
+  ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test1.gif)
+  ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test2.gif)
 ## Environment <br>
   
 *  Platforms: Windows 10 / cuda8.0 <br>
