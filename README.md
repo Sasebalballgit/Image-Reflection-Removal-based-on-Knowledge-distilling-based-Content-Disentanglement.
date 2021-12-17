@@ -4,13 +4,9 @@
 <br>
 ## **Abstract:** <br>
 
-_When we shoot pictures through transparent media, such as glass, reflection can undesirably occur, obscuring the scene we intended to capture. Therefore, removing reflection is practical in image restoration. However, a reflective scene mixed with that behind the glass is challenging to be separated, considered significantly ill-posed. This letter addresses the single image reflection removal (SIRR) problem by proposing a knowledge-distilling-based content disentangling model that can effectively decompose the transmission and reflection layers. The experiments on benchmark SIRR datasets demonstrate that our method performs favorably against state-of-the-art SIRR methods._
-  ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/architecture_SPL.png)
+_Single image reflection removal (SIRR) is an ill-posed and challenging problem that is practically essential to image enhancement. Inspired by knowledge distillation in deep learning, we tackle the SIRR problem by proposing a knowledge-distilling-based content disentangling model that can effectively decompose the transmission and reflection layers.  The experiments on benchmark SIRR datasets show that our method performs favorably against state-of-the-art SIRR methods._
+
   
-  
-## Highlights <br>
-  ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test1.gif)
-  ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test2.gif)
 ## Environment <br>
   
 *  Platforms: Windows 10 / cuda8.0 <br>
