@@ -16,7 +16,7 @@ _Single image reflection removal (SIRR) is an ill-posed and challenging problem 
 ## Testing <br>
 *  Change the root path、save image path in main.py. <br>
 *  Move your testing image to /Test. <br>
-*  Download our pretrained model from https://drive.google.com/drive/folders/1OINXQIFDbQVfm82UKO12FCr_Mcjr2z0Namd move to /Weighted. <br>
+*  Download our pretrained model from https://drive.google.com/drive/folders/1OINXQIFDbQVfm82UKO12FCr_Mcjr2z0N move to /Weighted. <br>
 *  Evaluate the model performance by `"python main.py"`. <br>    
 
 
