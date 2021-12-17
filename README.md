@@ -1,5 +1,5 @@
 # Reflection_Removal
-
+The implementation of paper "Image Reflection Removal based onKnowledge-distilling Content Disentanglement"
 ## Highlights <br>
   ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test1.gif)
   ![image](https://github.com/Sasebalballgit/Reflection_Removal/blob/main/Example/test2.gif)
